@@ -12,10 +12,10 @@ This game has new playing rule:
 
 New playing rule:
 
-![ScreenShot](https://cloud.githubusercontent.com/assets/13033746/13116933/76e42f9c-d5d0-11e5-8d42-0a1564e64ff0.png)
+![ScreenShot](https://cloud.githubusercontent.com/assets/13033746/13117545/fb442e70-d5d2-11e5-9d34-e1aa3a2e35ed.png)
 
 Congrat dialog:
 
-![ScreenShot](https://cloud.githubusercontent.com/assets/13033746/13116972/a40849e0-d5d0-11e5-8ac1-809fe6f084e8.png)
+![ScreenShot](https://cloud.githubusercontent.com/assets/13033746/13117547/fed59826-d5d2-11e5-8fd9-752e4362b218.png)
 
 
