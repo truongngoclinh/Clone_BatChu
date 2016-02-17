@@ -8,6 +8,7 @@ This game has new playing rule:
  - then each other part will turn after 15s
  - the points reward increase base on time, little time high points.
  - you can skip to force display each part by click on button
+ - have hint
 
 New playing rule:
 
