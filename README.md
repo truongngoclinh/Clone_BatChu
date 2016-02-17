@@ -16,6 +16,6 @@ New playing rule:
 
 Congrat dialog:
 
-![ScreenShot](https://cloud.githubusercontent.com/assets/13033746/13116972/a40849e0-d5d0-11e5-8ac1-809fe6f084e8.png)]
+![ScreenShot](https://cloud.githubusercontent.com/assets/13033746/13116972/a40849e0-d5d0-11e5-8ac1-809fe6f084e8.png)
 
-![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)(http://youtu.be/vt5fpE0bzSY)
+
