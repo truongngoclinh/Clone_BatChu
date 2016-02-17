@@ -1,0 +1,1968 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Đuổi hình bắt chữ 2014</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="keywords">
+
+        <!-- 786 -->
+        <item>NHACCU</item>
+        <item>KIENTHIET</item>
+        <item>HONGTAM</item>
+        <item>MYNHANNGU</item>
+        <item>GIAYBAC</item>
+        <item>CONGBO</item>
+        <item>BAOLA</item>
+        <item>CHANTHANH</item>
+        <item>BAOCAO</item>
+        <item>CONGTRAI</item>
+        <item>BAOHAM</item>
+        <item>LANGTHANG</item>
+        <item>CANBANG</item>
+        <item>BAOQUAT</item>
+        <item>BONGDA</item>
+        <item>COBAP</item>
+        <item>DAUGAU</item>
+        <item>KINHDO</item>
+        <item>CHANTUONG</item>
+        <item>NHAHAT</item>
+        <item>BAHOA</item>
+        <item>OBAMA</item>
+        <item>TRAICAY</item>
+        <item>XAKEP</item>
+        <item>NOITHAT</item>
+        <item>XEHOA</item>
+        <item>BAIBAC</item>
+        <item>THAMTHIET</item>
+        <item>GAUNGUA</item>
+        <item>NGANGU</item>
+        <item>APDAO</item>
+        <item>BINHHOADIDONG</item>
+        <item>CANGUA</item>
+        <item>HOICUNG</item>
+        <item>HOAHAU</item>
+        <item>BADONG</item>
+        <item>KICHTHICH</item>
+        <item>XETANG</item>
+        <item>NHATBAO</item>
+        <item>CHIDIEM</item>
+        <item>BACHIMBAYNOI</item>
+        <item>BAMOI</item>
+        <item>DAUCA</item>
+        <item>KHOANHONG</item>
+        <item>XUONGRONG</item>
+        <item>DAUTHU</item>
+        <item>DONGCAMCONGKHO</item>
+        <item>GACHHOA</item>
+        <item>BIHAI</item>
+        <item>DAITUONG</item>
+        <item>BIOI</item>
+        <item>BIENHIEU</item>
+        <item>CAUMAY</item>
+        <item>COLOA</item>
+        <item>NEMDAGIAUTAY</item>
+        <item>TAYTRANG</item>
+        <item>NGUAO</item>
+        <item>HAILONG</item>
+        <item>MAHOA</item>
+        <item>BADAUSAUTAY</item>
+        <item>CADAO</item>
+        <item>BAOTU</item>
+        <item>BAOPHU</item>
+        <item>TICHPHAN</item>
+        <item>NOIGIAN</item>
+        <item>CONGGIAO</item>
+        <item>BUTKY</item>
+        <item>BONGBAY</item>
+        <item>NEODON</item>
+        <item>KEOCUALUAXE</item>
+        <item>CAOKIEN</item>
+        <item>BACHANBONCANG</item>
+        <item>QUYCU</item>
+        <item>THANKHOC</item>
+        <item>MOITRUONG</item>
+        <item>KINHLUOC</item>
+        <item>TRANHTHU</item>
+        <item>TINHTRUONG</item>
+        <item>MYTAM</item>
+        <item>MACARONG</item>
+        <item>TUNGTANG</item>
+        <item>MATKHAU</item>
+        <item>CANGIAN</item>
+        <item>BIQUAN</item>
+        <item>BATRON</item>
+        <item>THOO</item>
+        <item>BACTINH</item>
+        <item>CUNGCAU</item>
+        <item>BATBI</item>
+        <item>YENBINH</item>
+        <item>BINHCHANNHUVA</item>
+        <item>BAXA</item>
+        <item>TANGCA</item>
+        <item>TRAUMONG</item>
+        <item>KHOTAM</item>
+        <item>HUNGTHU</item>
+        <item>NANGLONG</item>
+        <item>HINHBINHHANH</item>
+        <item>BIKICH</item>
+        <item>TANCONG</item>
+        <item>YEUSACH</item>
+        <item>DANHLUA</item>
+        <item>BAOTHUC</item>
+        <item>XALAN</item>
+        <item>XICHLO</item>
+        <item>KIEMCHUYEN</item>
+        <item>RUATIEN</item>
+        <item>NHANDUC</item>
+        <item>NHANTU</item>
+        <item>MANGDIDONG</item>
+        <item>DAILUNGTONVAI</item>
+        <item>NHANHIEU</item>
+        <item>LIENTHU</item>
+        <item>THIENNGA</item>
+        <item>HOAMI</item>
+        <item>BANDAO</item>
+        <item>THAMHOA</item>
+        <item>KHAUCUNG</item>
+        <item>THUTHAT</item>
+        <item>THUONGDINH</item>
+        <item>YEUOT</item>
+        <item>NAMCHAM</item>
+        <item>DAOSAU</item>
+        <item>DAOTOBUALON</item>
+        <item>THONGTAN</item>
+        <item>HANHHA</item>
+        <item>AOMUA</item>
+        <item>MATMA</item>
+        <item>LUCLAC</item>
+        <item>TAOTAU</item>
+        <item>KICHDONG</item>
+        <item>CAMKY</item>
+        <item>CUUTUNHATSINH</item>
+        <item>DONGCAM</item>
+        <item>ANHHAO</item>
+        <item>BAOMONG</item>
+        <item>NHANTAM</item>
+        <item>BANHTRAI</item>
+        <item>MATUY</item>
+        <item>BAPHAI</item>
+        <item>THANTHUONG</item>
+        <item>DINHCONG</item>
+        <item>DUONGXICHDAO</item>
+        <item>THUGIAN</item>
+        <item>NHICA</item>
+        <item>HOCDUONG</item>
+        <item>VUONBACHTHU</item>
+        <item>TRANHCUOP</item>
+        <item>TUANTRANGMAT</item>
+        <item>AUYEM</item>
+        <item>HAMHAU</item>
+        <item>THICHTHU</item>
+        <item>TRAICAM</item>
+        <item>BANHQUY</item>
+        <item>THACHCAO</item>
+        <item>BAMIENGMOTLOI</item>
+        <item>OMAI</item>
+        <item>BINHMA</item>
+        <item>HANHLANG</item>
+        <item>TAIHOA</item>
+        <item>XEMTUONG</item>
+        <item>AIMO</item>
+        <item>HOMCONGDUC</item>
+        <item>MUINHON</item>
+        <item>DETIEN</item>
+        <item>TAOMEO</item>
+        <item>BAOTAY</item>
+        <item>BALO</item>
+        <item>BATCAHAITAY</item>
+        <item>MANOCANH</item>
+        <item>COHOI</item>
+        <item>NUTTHATCOCHAI</item>
+        <item>XAUHO</item>
+        <item>NHAGIAO</item>
+        <item>TIENDAO</item>
+        <item>CANDAUVAN</item>
+        <item>KINHHOANG</item>
+        <item>HOIDONG</item>
+        <item>TINHSO</item>
+        <item>TRIEUKIEN</item>
+        <item>MAMANH</item>
+        <item>SOTROI</item>
+        <item>BOCHANBOTAY</item>
+        <item>GIACAY</item>
+        <item>TIEUTHUONG</item>
+        <item>DAPHOP</item>
+        <item>BAONGU</item>
+        <item>GIAIMA</item>
+        <item>XAPHONG</item>
+        <item>BIBACH</item>
+        <item>SOMUI</item>
+        <item>VOCO</item>
+        <item>TOTIEN</item>
+        <item>CHITHI</item>
+        <item>KYQUAI</item>
+        <item>BAIXICH</item>
+        <item>TOIDA</item>
+        <item>MASAT</item>
+        <item>ANMAY</item>
+        <item>GIANTIEP</item>
+        <item>HOANGTHAT</item>
+        <item>BAOBI</item>
+        <item>NHAONG</item>
+        <item>MACLUA</item>
+        <item>COCUA</item>
+        <item>CHISO</item>
+        <item>DONGLONG</item>
+        <item>NHAPHANLO</item>
+        <item>HANHHUNG</item>
+        <item>DONCATAITU</item>
+        <item>TUTUNG</item>
+        <item>BONGCHIMTAMCA</item>
+        <item>DONDOC</item>
+        <item>MAIMOI</item>
+        <item>XEDIEU</item>
+        <item>VITUYEN</item>
+        <item>CANNAO</item>
+        <item>TEBAO</item>
+        <item>THIEUTA</item>
+        <item>EBAY</item>
+        <item>YTU</item>
+        <item>GIAITHICH</item>
+        <item>LINHLIENLAC</item>
+        <item>HAOHUNG</item>
+        <item>THONGLE</item>
+        <item>TUONGTUONG</item>
+        <item>THATKINH</item>
+        <item>DAMMA</item>
+        <item>THUTUONG</item>
+        <item>TONGBITHU</item>
+        <item>DALUA</item>
+        <item>SAOBANG</item>
+        <item>DONGDAO</item>
+        <item>CAMCANNAYMUC</item>
+        <item>SODAOHOA</item>
+        <item>HOCLIENTHONG</item>
+        <item>TAYTRONG</item>
+        <item>TONGTICH</item>
+        <item>NGUCOC</item>
+        <item>BITRUYEN</item>
+        <item>COCON</item>
+        <item>TUANHANH</item>
+        <item>LICHTHIEP</item>
+        <item>MOTMATMUOINGO</item>
+        <item>DAINHAN</item>
+        <item>CAOBUOC</item>
+        <item>TONGTULENH</item>
+        <item>GIATRENTROI</item>
+        <item>KHONGKICH</item>
+        <item>DANHGIAPLACA</item>
+        <item>HOALUC</item>
+        <item>QUANHAM</item>
+        <item>SAMSUNG</item>
+        <item>GIANDIEP</item>
+        <item>PEPSI</item>
+        <item>PHONGKHONG</item>
+        <item>DINHCHI</item>
+        <item>THIEUTUONG</item>
+        <item>YAMAHA</item>
+        <item>HANGNGU</item>
+        <item>BINHDOAN</item>
+        <item>BOSUNG</item>
+        <item>LINHDAO</item>
+        <item>TRANHSONDAU</item>
+        <item>PHAOKICH</item>
+        <item>CASIO</item>
+        <item>TOQUANBAO</item>
+        <item>KYVI</item>
+        <item>TINHCO</item>
+        <item>DAUTRANH</item>
+        <item>BAOHANH</item>
+        <item>CAMTU</item>
+        <item>NOKIA</item>
+        <item>CHIENCONG</item>
+        <item>HASI</item>
+        <item>CHIENSI</item>
+        <item>LUUDAN</item>
+        <item>QUANCO</item>
+        <item>OVUONG</item>
+        <item>NAMBANCAU</item>
+        <item>CATTUONG</item>
+        <item>BANKINH</item>
+        <item>DACUOI</item>
+        <item>SAISU</item>
+        <item>XANGANG</item>
+        <item>LONGLANGDATHU</item>
+        <item>BATLOI</item>
+        <item>CHIHUY</item>
+        <item>OTRONG</item>
+        <item>CANNHAC</item>
+        <item>PHICO</item>
+        <item>TAOBON</item>
+        <item>THUCONGMYNGHE</item>
+        <item>PHUCHAU</item>
+        <item>DOCNHATVONHI</item>
+        <item>BATCOC</item>
+        <item>LONGBONG</item>
+        <item>BAODONG</item>
+        <item>DATA</item>
+        <item>DUCNUOCBEOCO</item>
+        <item>GAUQUAN</item>
+        <item>HOLYTINH</item>
+        <item>CACAO</item>
+        <item>THANGTHUNG</item>
+        <item>COCACOLA</item>
+        <item>NHANTIEN</item>
+        <item>CANHTRANH</item>
+        <item>TOTBUNG</item>
+        <item>TOITAM</item>
+        <item>TIEUCHAY</item>
+        <item>HUTCHANKHONG</item>
+        <item>LANGBEN</item>
+        <item>CHINCHAN</item>
+        <item>DAUGIO</item>
+        <item>MOTMATMOTCON</item>
+        <item>NHONHO</item>
+        <item>HANHKHUC</item>
+        <item>LANCAN</item>
+        <item>CHIEUTRUC</item>
+        <item>BACHCAU</item>
+        <item>SANGSUA</item>
+        <item>TRANHCODONG</item>
+        <item>TATYEU</item>
+        <item>GUONGCAU</item>
+        <item>BOLAO</item>
+        <item>DAUMOI</item>
+        <item>THIENTAI</item>
+        <item>TUBI</item>
+        <item>TAOBAO</item>
+        <item>DOLA</item>
+        <item>VUAPHALUOI</item>
+        <item>MATTHIET</item>
+        <item>DAONGU</item>
+        <item>TRINOITRINGOAI</item>
+        <item>GUONGCHIEUHAU</item>
+        <item>CAOBIET</item>
+        <item>DONGBAO</item>
+        <item>LABAN</item>
+        <item>DAISUQUAN</item>
+        <item>THOIHAN</item>
+        <item>THICHY</item>
+        <item>HOCLECH</item>
+        <item>GIAOTHONG</item>
+        <item>CONGTY</item>
+        <item>NHATKY</item>
+        <item>LACA</item>
+        <item>OTO</item>
+        <item>DAOLON</item>
+        <item>HACLAO</item>
+        <item>DOISO</item>
+        <item>QUAIBI</item>
+        <item>CAITO</item>
+        <item>GOKIEN</item>
+        <item>TOGANLONMAT</item>
+        <item>HOANHTRANG</item>
+        <item>CAOHOC</item>
+        <item>MUABONGMAY</item>
+        <item>QUYHANG</item>
+        <item>HOGA</item>
+        <item>XOMUOP</item>
+        <item>VATTU</item>
+        <item>QUYCHUAN</item>
+        <item>EPCUNG</item>
+        <item>TINHTAO</item>
+        <item>QUYCHUP</item>
+        <item>NGHESINHANDAN</item>
+        <item>CANHDONG</item>
+        <item>DANPHONG</item>
+        <item>CAMCHAN</item>
+        <item>DANHGIA</item>
+        <item>HATNHAN</item>
+        <item>QUABAO</item>
+        <item>THUOCLA</item>
+        <item>DINHCAO</item>
+        <item>CANTHIEP</item>
+        <item>DAGIAC</item>
+        <item>NHACHOCTROI</item>
+        <item>THUYDAU</item>
+        <item>TYTE</item>
+        <item>THATTRUYEN</item>
+        <item>TINHHOA</item>
+        <item>HAMHO</item>
+        <item>GIAYTHONGHANH</item>
+        <item>DUONGCAI</item>
+        <item>CAUCU</item>
+        <item>THIENDUONG</item>
+        <item>CHANTAM</item>
+        <item>SAUNANG</item>
+        <item>AULAC</item>
+        <item>THANTHONG</item>
+        <item>LUOILE</item>
+        <item>TIEUTHU</item>
+        <item>CHOTREOMEODAY</item>
+        <item>TOIKY</item>
+        <item>NHOSI</item>
+        <item>HOALE</item>
+        <item>TIENDOAN</item>
+        <item>YEUKIEU</item>
+        <item>OTROC</item>
+        <item>DAOLAM</item>
+        <item>LENMANG</item>
+        <item>GIAOTRANH</item>
+        <item>NHIETHUYET</item>
+        <item>APGIA</item>
+        <item>TINHLUOC</item>
+        <item>THOTHE</item>
+        <item>HEOHUT</item>
+        <item>CUPHAP</item>
+        <item>THIENSU</item>
+        <item>PHANTU</item>
+        <item>PHANBO</item>
+        <item>CAMKET</item>
+        <item>DAXOAY</item>
+        <item>XABONG</item>
+        <item>BAOGIA</item>
+        <item>NHANCAU</item>
+        <item>MATMAT</item>
+        <item>CUUVAN</item>
+        <item>CHUANXAC</item>
+        <item>HOAMAT</item>
+        <item>KIEMTIEN</item>
+        <item>TRUNGTUONG</item>
+        <item>XUHUONG</item>
+        <item>SOHONG</item>
+        <item>LOLIEU</item>
+        <item>BANTAN</item>
+        <item>TUONGTHICH</item>
+        <item>CONGCONG</item>
+        <item>HOHAO</item>
+        <item>VOIHOASEN</item>
+        <item>QUANTAM</item>
+        <item>TUMU</item>
+        <item>PHANDOI</item>
+        <item>BELU</item>
+        <item>CHIMSACALAN</item>
+        <item>MUCANHCHUON</item>
+        <item>NONGNAY</item>
+        <item>THAIDO</item>
+        <item>VANHOI</item>
+        <item>TENLUA</item>
+        <item>HOATIET</item>
+        <item>TRAIPHIEU</item>
+        <item>DONGDANG</item>
+        <item>QUYTAC</item>
+        <item>BATNGO</item>
+        <item>KIEMKE</item>
+        <item>KIENTUONG</item>
+        <item>TITACH</item>
+        <item>LYBIET</item>
+        <item>PHATGIAC</item>
+        <item>HANHHINH</item>
+        <item>VOTU</item>
+        <item>COKEO</item>
+        <item>THANHCHI</item>
+        <item>CAUCO</item>
+        <item>NHAYLOCO</item>
+        <item>GIOCAOSU</item>
+        <item>TRUNGBINHTAN</item>
+        <item>TRUONGQUAY</item>
+        <item>BAOLUC</item>
+        <item>CHIMSONCA</item>
+        <item>NHAGA</item>
+        <item>SANSOC</item>
+        <item>BICAO</item>
+        <item>KENHKIEU</item>
+        <item>CANCAU</item>
+        <item>LANHDAO</item>
+        <item>PHAOCAU</item>
+        <item>XAHOI</item>
+        <item>CAICO</item>
+        <item>TANDANXENGHE</item>
+        <item>ONGBAU</item>
+        <item>THUVI</item>
+        <item>THANTHO</item>
+        <item>QUANDAO</item>
+        <item>THUDO</item>
+        <item>KHAUXATAMPHAT</item>
+        <item>HOCBUA</item>
+        <item>HOAVANG</item>
+        <item>THANGHOA</item>
+        <item>BIDAO</item>
+        <item>TIENNHAN</item>
+        <item>THIEUNIEN</item>
+        <item>YTA</item>
+        <item>TANCA</item>
+        <item>PHANVAN</item>
+        <item>TANDUONG</item>
+        <item>TUONGDAI</item>
+        <item>TETHAP</item>
+        <item>TOIHAUTHU</item>
+        <item>CATINH</item>
+        <item>DAYDUA</item>
+        <item>DOTHI</item>
+        <item>MUNOI</item>
+        <item>SOIBONG</item>
+        <item>LONGVU</item>
+        <item>EAP</item>
+        <item>TUONGTU</item>
+        <item>UBUON</item>
+        <item>TIENPHONG</item>
+        <item>QUANGCAO</item>
+        <item>LUCDUC</item>
+        <item>ANTUONG</item>
+        <item>MEOMAT</item>
+        <item>THONGTHOANG</item>
+        <item>BANGGIA</item>
+        <item>CHANDAI</item>
+        <item>LAUBAU</item>
+        <item>KIENGIAI</item>
+        <item>BEBONG</item>
+        <item>XUNINH</item>
+        <item>CAICHAYCAICOI</item>
+        <item>TIENTRAMHAUTAU</item>
+        <item>HANHTINH</item>
+        <item>DAOTAU</item>
+        <item>SONHATKY</item>
+        <item>TUTUONG</item>
+        <item>COTUC</item>
+        <item>CAMDO</item>
+        <item>XUONGSONG</item>
+        <item>GIAODIEN</item>
+        <item>QUANNGAI</item>
+        <item>TIMKIEM</item>
+        <item>ANCOMTRUOCKENG</item>
+        <item>QUANTINH</item>
+        <item>VOMONG</item>
+        <item>XEGA</item>
+        <item>MATTIEN</item>
+        <item>RAUNGOT</item>
+        <item>SAUBENH</item>
+        <item>TREOGIO</item>
+        <item>TAYSAI</item>
+        <item>CAUPHAO</item>
+        <item>TYSO</item>
+        <item>DOIHINH</item>
+        <item>DAMOC</item>
+        <item>VIDAI</item>
+        <item>CAUTIEU</item>
+        <item>GIANKHOAN</item>
+        <item>MOMAN</item>
+        <item>TAMCUNGLUCVIEN</item>
+        <item>MEOMAGADONG</item>
+        <item>CHUOILUN</item>
+        <item>THUONGHIEU</item>
+        <item>BONGBAN</item>
+        <item>TATGIAY</item>
+        <item>DAIHAGIA</item>
+        <item>HONTHU</item>
+        <item>QUANQUIT</item>
+        <item>CHATDOCDACAM</item>
+        <item>HANHAN</item>
+        <item>HIEUTHUOC</item>
+        <item>VIENTHONG</item>
+        <item>BANSONGBANCHET</item>
+        <item>BANSAO</item>
+        <item>KHOAINUOC</item>
+        <item>THITHUC</item>
+        <item>DULONGDUCANH</item>
+        <item>QUANQUYT</item>
+        <item>TRUNGTIEN</item>
+        <item>CHANTHAT</item>
+        <item>BEOBOT</item>
+        <item>LONCAPNACH</item>
+        <item>BAIKIEN</item>
+        <item>XOBO</item>
+        <item>BANHRANG</item>
+        <item>BULONG</item>
+        <item>DATINH</item>
+        <item>CHIASE</item>
+        <item>NGUQUAN</item>
+        <item>KIMCHINAM</item>
+        <item>TIETHOC</item>
+        <item>SOTGIA</item>
+        <item>AOUOC</item>
+        <item>THANDONG</item>
+        <item>MANAO</item>
+        <item>NHAYNHOT</item>
+        <item>THATBAI</item>
+        <item>CHAMCONG</item>
+        <item>CHAYBONG</item>
+        <item>GATRAIGIUONG</item>
+        <item>TROISAUDATTHAM</item>
+        <item>XUCXICH</item>
+        <item>TRANHDONGHO</item>
+        <item>SUARUAMAT</item>
+        <item>CAYMAMXOI</item>
+        <item>DAMAM</item>
+        <item>DINHBA</item>
+        <item>KHAITHAC</item>
+        <item>BAIHOC</item>
+        <item>QUATTRAN</item>
+        <item>GAIGOC</item>
+        <item>MOIHORANGLANH</item>
+        <item>DAUTRAUMATNGUA</item>
+        <item>THUAHANH</item>
+        <item>CANUOCNGOT</item>
+        <item>KIENTHUC</item>
+        <item>TRAIPHEP</item>
+        <item>SONBONG</item>
+        <item>LIETKE</item>
+        <item>HETRALUA</item>
+        <item>CHOANDAGAANSOI</item>
+        <item>BANDO</item>
+        <item>DAOMO</item>
+        <item>MUADUONG</item>
+        <item>DUONGCHANTROI</item>
+        <item>CHANUOTCHANRAO</item>
+        <item>BANNOIKHO</item>
+        <item>MUMAU</item>
+        <item>MYVIEN</item>
+        <item>VUIHOADAPLIEU</item>
+        <item>XUONGQUAIXANH</item>
+        <item>TAUHOANHAPMA</item>
+        <item>MUCAOAODAI</item>
+        <item>DENLONG</item>
+        <item>NGOISAOCANHAC</item>
+        <item>BATMAT</item>
+        <item>TRUONGDIEM</item>
+        <item>BOMTAN</item>
+        <item>BUTSAGACHET</item>
+        <item>NANGTINH</item>
+        <item>TUMNAMTUMBA</item>
+        <item>KICHCAU</item>
+        <item>NAMMO</item>
+        <item>BUOCSONG</item>
+        <item>ONGCONGONGTAO</item>
+        <item>KHEUOC</item>
+        <item>HOATHACH</item>
+        <item>BANHOC</item>
+        <item>UOTAT</item>
+        <item>SUTUBIEN</item>
+        <item>SOTDAT</item>
+        <item>DIENHOA</item>
+        <item>KEMCHONGNANG</item>
+        <item>RUTDON</item>
+        <item>DANGKY</item>
+        <item>PHANTRAN</item>
+        <item>ANCHAODABAT</item>
+        <item>THUATHOT</item>
+        <item>CHIANAMXEBAY</item>
+        <item>HUYENTHOAI</item>
+        <item>CAMTHU</item>
+        <item>HOANHHANH</item>
+        <item>TRIEUTAP</item>
+        <item>NAORUOTNAOGAN</item>
+        <item>VUITHU</item>
+        <item>MATMANG</item>
+        <item>COICOC</item>
+        <item>COIRE</item>
+        <item>KHAUDO</item>
+        <item>MATBUNGRASUA</item>
+        <item>PHANDAU</item>
+        <item>LONGNHAN</item>
+        <item>MATCAT</item>
+        <item>HAYHO</item>
+        <item>CANCO</item>
+        <item>THUTHU</item>
+        <item>NOIGAIOC</item>
+        <item>DAITRUYENHINH</item>
+        <item>HAUQUA</item>
+        <item>THACHANH</item>
+        <item>KIMCUONG</item>
+        <item>DINHQUALUA</item>
+        <item>HANLAM</item>
+        <item>CAONIEN</item>
+        <item>CANHCAM</item>
+        <item>THONGTU</item>
+        <item>ELE</item>
+        <item>YENTINH</item>
+        <item>NHACAOCUARONG</item>
+        <item>AOBABA</item>
+        <item>NAMGAINEMMAT</item>
+        <item>PHANGIAN</item>
+        <item>THAMCUNGBISU</item>
+        <item>SUTU</item>
+        <item>COLOSI</item>
+        <item>CAOLOI</item>
+        <item>TRAICHINCAY</item>
+        <item>CAICACH</item>
+        <item>PHAROI</item>
+        <item>DAPHUONGTIEN</item>
+        <item>CABIET</item>
+        <item>THUONGSACH</item>
+        <item>BIENTUONG</item>
+        <item>BORAO</item>
+        <item>TINHBO</item>
+        <item>DASAUDACAM</item>
+        <item>DENKEOQUAN</item>
+        <item>CHANBUN</item>
+        <item>DAULONG</item>
+        <item>CAMSUNG</item>
+        <item>XOIXEO</item>
+        <item>BANHMIGOI</item>
+        <item>BAOTUONG</item>
+        <item>BONGBANG</item>
+        <item>BOICA</item>
+        <item>BAQUEXOLA</item>
+        <item>CAOGIA</item>
+        <item>MEOGIAHOACAO</item>
+        <item>GIAAOTUICOM</item>
+        <item>RAUMA</item>
+        <item>CACHEP</item>
+        <item>DANEM</item>
+        <item>HAUCAN</item>
+        <item>BOGOI</item>
+        <item>COQUAI</item>
+        <item>ANHOAHONG</item>
+        <item>KHOASON</item>
+        <item>MAMUT</item>
+        <item>BOBUA</item>
+        <item>THURAC</item>
+        <item>GIAOMUA</item>
+        <item>HOIGADAPVIT</item>
+        <item>NHACSAN</item>
+        <item>THUATUONG</item>
+        <item>CAMANG</item>
+        <item>DANHLON</item>
+        <item>TROTRONG</item>
+        <item>CAULACBO</item>
+        <item>LAYTHITDENGUOI</item>
+        <item>CAMAP</item>
+        <item>MOHO</item>
+        <item>MEDODAU</item>
+        <item>BANDAP</item>
+        <item>DANGQUANG</item>
+        <item>BIANGAM</item>
+        <item>CUOITRU</item>
+        <item>DAULUOTVAN</item>
+        <item>BAOCAOSU</item>
+        <item>TUINGU</item>
+        <item>NHATHUONG</item>
+        <item>PHAGIA</item>
+        <item>CHIEUCHI</item>
+        <item>SAUTHAM</item>
+        <item>THIEUNU</item>
+        <item>THATTHOAT</item>
+        <item>SUGIA</item>
+        <item>CHANVAY</item>
+        <item>CHANHLEO</item>
+        <item>SUATUOI</item>
+        <item>LYLICH</item>
+        <item>MOITINHDAU</item>
+        <item>NODU</item>
+        <item>HOTUTHAN</item>
+        <item>XEMATLAI</item>
+        <item>RONGCUONHONGOI</item>
+        <item>NGUHANH</item>
+        <item>OANQUAN</item>
+        <item>VOSU</item>
+        <item>CAOHUNG</item>
+        <item>TAITOMATLON</item>
+        <item>BANHTROI</item>
+        <item>TRAIKHOAY</item>
+        <item>BANHTRUNGTHU</item>
+        <item>DAUDUA</item>
+        <item>NHACTHINHPHONG</item>
+        <item>MATAU</item>
+        <item>THUKY</item>
+        <item>HATCHEO</item>
+        <item>LENVOIXUONGCHO</item>
+        <item>XUCGIAC</item>
+        <item>BACMAT</item>
+        <item>TREOGIAY</item>
+        <item>QUYTHAMABAT</item>
+        <item>HAUTRUONG</item>
+        <item>DANONG</item>
+        <item>MIENGANNUILO</item>
+        <item>MANHINH</item>
+        <item>XUATNGU</item>
+        <item>DUAM</item>
+        <item>HANHLE</item>
+        <item>MATBAO</item>
+        <item>XAHOA</item>
+        <item>TONGDAI</item>
+        <item>CAMKYTHIHOA</item>
+        <item>NGUDONG</item>
+        <item>THUVIEN</item>
+        <item>HOCHAM</item>
+        <item>PHANCONG</item>
+        <item>THUONGLAI</item>
+        <item>THONGSO</item>
+        <item>YEUCAU</item>
+        <item>SAUSAC</item>
+        <item>CHUDONG</item>
+        <item>TOCDO</item>
+        <item>NHAYCHANSAO</item>
+        <item>MAYNGHENHAC</item>
+        <item>LEDO</item>
+        <!-- Adding new data - batchu_troll 186 -->
+        <item>AMNHAC</item>
+        <item>AMTHUC</item>
+        <item>ANHHUNGNUP</item>
+        <item>ANVAT</item>
+        <item>BANHMI</item>
+        <item>BANVESO</item>
+        <item>BAOHIEM</item>
+        <item>BATDONGSAN</item>
+        <item>BAY</item>
+        <item>BALONGUOC</item>
+        <item>BATUNG</item>
+        <item>BIMAT</item>
+        <item>BOCLICH</item>
+        <item>BONG</item>
+        <item>BONGDE</item>
+        <item>BOCAUTRANG</item>
+        <item>BOSUUTAP</item>
+        <item>BOTAY</item>
+        <item>BUABON</item>
+        <item>BUOI</item>
+        <item>BUONNGU</item>
+        <item>CAIBANG</item>
+        <item>CAOLAU</item>
+        <item>CACHUA</item>
+        <item>CACUONG</item>
+        <item>CAPHESANVUON</item>
+        <item>CASI</item>
+        <item>CHEMGIO</item>
+        <item>CHIEU</item>
+        <item>CHUATE</item>
+        <item>CHUNGKHOAN</item>
+        <item>CHUONG</item>
+        <item>CHUONGNGAIVAT</item>
+        <item>CONGNGHE</item>
+        <item>CONTRUNG</item>
+        <item>COTICH</item>
+        <item>CUA</item>
+        <item>CUCGACH</item>
+        <item>CUOI</item>
+        <item>DACSAN</item>
+        <item>DAIDUONG</item>
+        <item>DANHHAI</item>
+        <item>DANCA</item>
+        <item>DAGA</item>
+        <item>DETHUONG</item>
+        <item>DIADAOCUCHI</item>
+        <item>DIDONG</item>
+        <item>DIUNG</item>
+        <item>DOANKET</item>
+        <item>DOCTHAN</item>
+        <item>DONGTINH</item>
+        <item>DOTBIEN</item>
+        <item>DULICHBUI</item>
+        <item>GAMETHU</item>
+        <item>GAU</item>
+        <item>GIANGHO</item>
+        <item>GIANLAN</item>
+        <item>GIAOVIEN</item>
+        <item>GIONGHATVIET</item>
+        <item>GOIBANHCHUNG</item>
+        <item>HAIVL</item>
+        <item>HAISAM</item>
+        <item>HAISAN</item>
+        <item>HANGRONG</item>
+        <item>HALOI</item>
+        <item>HIEPSI</item>
+        <item>HOATRANG</item>
+        <item>HOCSINH</item>
+        <item>HOIAN</item>
+        <item>HOIBIA</item>
+        <item>HUANLUYEN</item>
+        <item>HUYENCHIP</item>
+        <item>HUYCHUONG</item>
+        <item>HUTIEUGO</item>
+        <item>KETTHUC</item>
+        <item>KHANGIA</item>
+        <item>KHIEUVU</item>
+        <item>KHOAHOC</item>
+        <item>KHOBAU</item>
+        <item>KIEMTRA</item>
+        <item>KIMLOAI</item>
+        <item>KYTHU</item>
+        <item>LANGPHI</item>
+        <item>LAPTRINH</item>
+        <item>LEOCAY</item>
+        <item>LEHOI</item>
+        <item>LONGLA</item>
+        <item>LUADAO</item>
+        <item>LUOI</item>
+        <item>MAMNGUQUA</item>
+        <item>MAMTOM</item>
+        <item>MAOHIEM</item>
+        <item>MAYBAY</item>
+        <item>MAYMAN</item>
+        <item>MAYTINHBANG</item>
+        <item>MAVACH</item>
+        <item>MOIGIOI</item>
+        <item>MUADONG</item>
+        <item>MUNGTUOI</item>
+        <item>MUON</item>
+        <item>MẠNG</item>
+        <item>NAUBANHCHUNG</item>
+        <item>NEMNUONG</item>
+        <item>NGHESI</item>
+        <item>NGHIAVUQUANSU</item>
+        <item>NGHIEMTUC</item>
+        <item>NGOT</item>
+        <item>NGUOIGIAUMAT</item>
+        <item>NGUOIHAMMO</item>
+        <item>NGUOIMAU</item>
+        <item>NHANBANVOTINH</item>
+        <item>NHAU</item>
+        <item>NHIEPANHGIA</item>
+        <item>NOICOMDIEN</item>
+        <item>NOITRO</item>
+        <item>NUOC</item>
+        <item>ONGDO</item>
+        <item>ONGTAO</item>
+        <item>ONGTRUM</item>
+        <item>PHEPTHUAT</item>
+        <item>PHICONG</item>
+        <item>PHO</item>
+        <item>PHONGSINH</item>
+        <item>PHOCO</item>
+        <item>PHOMAIQUE</item>
+        <item>PHUTHUY</item>
+        <item>QUACCANCAU</item>
+        <item>QUAYDAU</item>
+        <item>QUAGIANG</item>
+        <item>QUOCHOI</item>
+        <item>ROI</item>
+        <item>RUNG</item>
+        <item>SAIGON</item>
+        <item>SIEUTHI</item>
+        <item>SINHNHAT</item>
+        <item>SONG</item>
+        <item>SONGNUOC</item>
+        <item>TAI</item>
+        <item>TAM</item>
+        <item>TAMCAM</item>
+        <item>TANGLUC</item>
+        <item>TAOQUAN</item>
+        <item>TAPTHEDUC</item>
+        <item>TEOEM</item>
+        <item>TET</item>
+        <item>THACH</item>
+        <item>THACHSANH</item>
+        <item>THIEN</item>
+        <item>THINO</item>
+        <item>THOIGIAN</item>
+        <item>THOISU</item>
+        <item>THOITIET</item>
+        <item>THUYDIEN</item>
+        <item>THURUNG</item>
+        <item>TIENGVIET</item>
+        <item>TIENHOA</item>
+        <item>TINHMAUTU</item>
+        <item>TONGIAO</item>
+        <item>TRANGTRI</item>
+        <item>TRETRAU</item>
+        <item>TRIEUCUONG</item>
+        <item>TRON</item>
+        <item>TRONGDONG</item>
+        <item>TROCHOI</item>
+        <item>TROGIUP</item>
+        <item>TRUNGTHANH</item>
+        <item>TRUNGTHU</item>
+        <item>TRUYENTRANH</item>
+        <item>TUVI</item>
+        <item>TUOITHO</item>
+        <item>TUONG</item>
+        <item>TUDO</item>
+        <item>TUSUONG</item>
+        <item>TUTHAN</item>
+        <item>TUTHIEN</item>
+        <item>UOCMO</item>
+        <item>VA</item>
+        <item>VANDONGVIEN</item>
+        <item>VANTAY</item>
+        <item>VESINH</item>
+        <item>VIAHE</item>
+        <item>VIETNAM</item>
+        <item>VOGIACU</item>
+        <item>VUOTNGUC</item>
+        <item>XEBOI</item>
+        <item>XITRUM</item>
+    </string-array>
+    <string-array name="keyHints">
+        <item>Anh ấy đánh đàn hay quá</item>
+        <item>Tôi sẽ thiết kê ngôi nhà này</item>
+        <item>10 điểm</item>
+        <item>Nàng tiên cá</item>
+        <item>Thuốc lá</item>
+        <item>Tập trung, tôi có điều muốn nói</item>
+        <item>Ngắm nhìn cảnh vật từ trên cao</item>
+        <item>Anh hứa sẽ yêu em trọn đời</item>
+        <item>Mai hết hạn rồi</item>
+        <item>1 loại giấy tờ</item>
+        <item>Tập hợp A ... tập hợp B</item>
+        <item>1 hành động</item>
+        <item>A = B</item>
+        <item>Nói tóm lại là thế này</item>
+        <item>Biên cương</item>
+        <item>Protein</item>
+        <item> Nhìn gì mà nhìn </item>
+        <item>Đông tây</item>
+        <item>Lộ diện</item>
+        <item>Old trafford </item>
+        <item>chém gió thời xưa</item>
+        <item>Mỹ</item>
+        <item>Vitamin</item>
+        <item>Dụng cụ</item>
+        <item>Trong nhà</item>
+        <item>Cưới xin</item>
+        <item>Búa lua xua</item>
+        <item>Tiếng khóc </item>
+        <item>Động vật</item>
+        <item>Tôi 50 anh 50 ok!</item>
+        <item>Tuyển VietNam - tuyển Lào</item>
+        <item>Cụm Một từ ghép</item>
+        <item>Dưới nước</item>
+        <item>Khai mau</item>
+        <item>Xinh quá</item>
+        <item>Trạng thái</item>
+        <item>Ồ!</item>
+        <item>Bánh xích</item>
+        <item>Tin tức</item>
+        <item>Nó, chính nó đấy</item>
+        <item>Tảng băng</item>
+        <item>Ế quá</item>
+        <item>Bổ mắt</item>
+        <item>Khai báo thành khẩn</item>
+        <item>Lắm gai quá</item>
+        <item>Một từ ghép</item>
+        <item>Một câu tục ngữ</item>
+        <item>Nền nhà</item>
+        <item>Dở khóc dở cười</item>
+        <item>4 sao</item>
+        <item>Ăn cắp la làng</item>
+        <item>Đường một chiều</item>
+        <item>Chung kết Viet Nam - Thái Lan</item>
+        <item>Ngày xưa</item>
+        <item>Tớ có làm gì đâu :)</item>
+        <item>Một từ ghép</item>
+        <item>Dân ca</item>
+        <item>Chú làm tốt lắm</item>
+        <item>Mãi không mở được</item>
+        <item>Quái vật</item>
+        <item>Trữ tình dân gian</item>
+        <item>No quá</item>
+        <item>Sắp mưa to rồi</item>
+        <item>Một từ ghép</item>
+        <item>Sao bọn nó lại biết nhỉ</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Mẹ, mua cho con đi</item>
+        <item>Một từ ghép</item>
+        <item>Một câu tục ngữ</item>
+        <item>Em có cách hay lắm</item>
+        <item>Chạy</item>
+        <item>Làm ăn đàng hoàng</item>
+        <item>Buồn quá đi</item>
+        <item>Bảo vệ, giữ gìn</item>
+        <item>Một từ ghép</item>
+        <item>Tàu nhanh</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Vampire</item>
+        <item>Vui quá...</item>
+        <item>**********</item>
+        <item>Đã bảo rồi</item>
+        <item>Tớ chẳng làm đc gì cả</item>
+        <item>Nhìn gì mà nhìn</item>
+        <item>Anh k quan tâm tới em</item>
+        <item>Nhạt nhòa</item>
+        <item>Có mua có bán</item>
+        <item>Một từ ghép</item>
+        <item>Nhẹ nhàng, thanh thản</item>
+        <item>Một câu tục ngữ</item>
+        <item>Bx</item>
+        <item>OT</item>
+        <item>To lớn</item>
+        <item>Lo lắng, buồn bã</item>
+        <item>Game này hay đấy</item>
+        <item>Không thể quên</item>
+        <item>Một từ ghép</item>
+        <item>2014 và những số 7</item>
+        <item>Xông lên</item>
+        <item>Ta có cách này...</item>
+        <item>Cọ 2 cục đá vào nhau</item>
+        <item>Tít tít tít</item>
+        <item>Ban công</item>
+        <item>Phố cổ</item>
+        <item>Một từ ghép</item>
+        <item>Xây dự án, mở công ty</item>
+        <item>Một từ ghép</item>
+        <item>Phật</item>
+        <item>Viettel, vina</item>
+        <item>Một câu tục ngữ</item>
+        <item>Hảo hảo chua cay</item>
+        <item>Vietnam, philipin, biển đông</item>
+        <item>Điệu múa</item>
+        <item>Líu lo</item>
+        <item>Triều tiên</item>
+        <item>MH317</item>
+        <item>Vào ngày này, tháng này, tôi đã...</item>
+        <item>Một từ ghép</item>
+        <item>Hàng VN chất lượng cao</item>
+        <item>Động cái đã ngã</item>
+        <item>Kim loại</item>
+        <item>Một từ ghép</item>
+        <item>Một câu tục gnữu</item>
+        <item>Thông báo</item>
+        <item>Có khai không</item>
+        <item>3 con sói</item>
+        <item>123456</item>
+        <item>Một từ ghép</item>
+        <item>China</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Một câu tục ngữ</item>
+        <item>Tớ hiểu mà</item>
+        <item>Một từ ghép</item>
+        <item>Mơ</item>
+        <item>Giặc mĩ</item>
+        <item>Một từ ghép</item>
+        <item>Phê quá</item>
+        <item>Nói gì cũng đúng</item>
+        <item>Quê hương</item>
+        <item>Trả lương chậm</item>
+        <item>Nước ta có khí hậu nhiệt đới</item>
+        <item>Chơi game</item>
+        <item>2</item>
+        <item>Một từ ghép</item>
+        <item>Gấu, hổ, hươu....</item>
+        <item>Nó là của em</item>
+        <item>Cưới xin</item>
+        <item>Mộ từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Hay đấy</item>
+        <item>Ai chả thích</item>
+        <item>Một từ ghép</item>
+        <item>Trần nhà</item>
+        <item>Một câu tục ngữ</item>
+        <item>Một từ ghép</item>
+        <item>5 vận quân</item>
+        <item>Lối đi</item>
+        <item>Không lường trước đc</item>
+        <item>Chú sau này giàu lắm!</item>
+        <item>Ôi....</item>
+        <item>Ủng hộ</item>
+        <item>Một từ ghép</item>
+        <item>Nhìn chằm chằm vào...</item>
+        <item>Chua chua, chị e cũng thích</item>
+        <item>Đồng Cừu</item>
+        <item>Mua cho con</item>
+        <item>Một câu tục ngữ</item>
+        <item>Body chuẩn</item>
+        <item>Chỉ đến một lần</item>
+        <item>Một câu tục ngữ</item>
+        <item>Một từ ghép</item>
+        <item>Nghề nghiệp</item>
+        <item>Văn Quyến</item>
+        <item>Songoku</item>
+        <item>Một từ ghép</item>
+        <item>Chủ tịch</item>
+        <item>Mộ từ ghép</item>
+        <item>Nhà vua cần gặp người</item>
+        <item>Khôn lỏi, nguy hiểm</item>
+        <item>Sống chết có số</item>
+        <item>Chịu hẳn</item>
+        <item>Giữa, cuối tháng</item>
+        <item>Buôn bán</item>
+        <item>Galaxy note 4</item>
+        <item>Một món ăn</item>
+        <item>Mở khóa</item>
+        <item>Tắm rửa</item>
+        <item>Khó chịu quá</item>
+        <item>Ắt xì</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Chú làm việc này</item>
+        <item>Lạ</item>
+        <item>Một từ ghép</item>
+        <item>Maximum</item>
+        <item>Fms</item>
+        <item>Cái bang</item>
+        <item>Xem lại</item>
+        <item>Cung điện</item>
+        <item>Một từ ghép</item>
+        <item>Không có cửa sổ</item>
+        <item>Hahaha, con gà</item>
+        <item>Từ đã, chờ tao chút m</item>
+        <item>VN Index</item>
+        <item>Tát biển đông cũng cạn</item>
+        <item>Một từ ghép</item>
+        <item>Côn đồ</item>
+        <item>Một từ ghép</item>
+        <item>Linh tinh xoengs</item>
+        <item>Một từ ghép</item>
+        <item>Lẻ loi</item>
+        <item>Đi tao giới thiếu cho em này</item>
+        <item>Mộ từ ghép</item>
+        <item>Mộ từ ghép</item>
+        <item>Penalty</item>
+        <item>Sinh học</item>
+        <item>1 sao 2 gạch</item>
+        <item>Mua bán</item>
+        <item>Con gái con đứa</item>
+        <item>Từ từ, nghe thấy giáo nói kìa</item>
+        <item>Mộ từ ghép</item>
+        <item>Mong chờ</item>
+        <item>Hành là chính</item>
+        <item>Câu này đáp án là thế nào nhỉ</item>
+        <item>Giật cả mình</item>
+        <item>Tiễn người ra đi</item>
+        <item>Nước ta chỉ có 1</item>
+        <item>Mộ từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Kéo cả đội đi luôn</item>
+        <item>Một câu tục ngữ</item>
+        <item>Đi đâu cũng có gái theo</item>
+        <item>Cao đẳng -> Đại học</item>
+        <item>Mua chuộc thằng em, tán con chị</item>
+        <item>Một từ ghép</item>
+        <item>Gạo, Ngô, đậu....</item>
+        <item>Đời này qua đời khác</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Đẹp trai, ga lăng...</item>
+        <item>Một câu tục ngữ</item>
+        <item>Bẩm báo</item>
+        <item>Một từ ghép</item>
+        <item>Quân đoàn</item>
+        <item>100k 1 mớ rau muống á</item>
+        <item>Đánh từ trên trời đánh xuống</item>
+        <item>Đánh gần</item>
+        <item>Súng ống, pháo, đạn</item>
+        <item>Úy, tá, tướng</item>
+        <item>Korea</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Pháo, rađar, tên lửa</item>
+        <item>Mộ từ ghép</item>
+        <item>Có gì lạ ở đây</item>
+        <item>Exciter</item>
+        <item>Tập hợp nhanh</item>
+        <item>Mộ từ ghép</item>
+        <item>Thiếu 2 chỉ tiêu</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Fx 570</item>
+        <item>Một từ ghép</item>
+        <item>Khung cảnh thật hoành tráng</item>
+        <item>Emily JustaTee</item>
+        <item>Độc lập chủ quyền</item>
+        <item>Chồng đánh vợ</item>
+        <item>Thấy giáo nói: này nhé, tôi chỉ làm một lần thôi đấy</item>
+        <item>1200, 110i</item>
+        <item>Pentakill,  Rampage</item>
+        <item>Mộ từ ghép</item>
+        <item>Bộ đội cụ Hồ</item>
+        <item>Nỏ</item>
+        <item>Gia cát dự</item>
+        <item>Không phải tròn, không phải tam giác</item>
+        <item>Gấu trắng</item>
+        <item>Như Ý</item>
+        <item>r = d / 2</item>
+        <item>Dưới lòng suối</item>
+        <item>Một từ ghép</item>
+        <item>Dụng cụ</item>
+        <item>Một câu tục ngữ</item>
+        <item>Khó rồi</item>
+        <item>Captain America</item>
+        <item>Bạn đã điền hết đáp án chưa?</item>
+        <item>Xem thế nào đã</item>
+        <item>Mộ từ ghép</item>
+        <item>Ăn ổi xanh nè</item>
+        <item>Làng nghề</item>
+        <item>Người cao tuổi</item>
+        <item>Chỉ có một</item>
+        <item>Đi thôi, mẹ cháu nhờ bác đón</item>
+        <item>Lang thang khắp nơi khắp chốn</item>
+        <item>Cứu hỏa</item>
+        <item>Biết ơn, cảm ơn</item>
+        <item>Hehe cứ chờ bọn nó tranh giành đã</item>
+        <item>Dài quá</item>
+        <item>Mộ từ ghép</item>
+        <item>Cafe, capuchino</item>
+        <item>Không suy nghĩ nhiều</item>
+        <item>Thương hiệu lớn nhất thế giới</item>
+        <item>Mộ từ ghép</item>
+        <item>Samsung - Apple</item>
+        <item>Một từ ghép</item>
+        <item>Mộ từ ghép</item>
+        <item>Tào tháo đuổi</item>
+        <item>Một từ ghép</item>
+        <item>Bệnh ngoài da</item>
+        <item>Người lớn</item>
+        <item>Đau bụng do ăn no</item>
+        <item>Còn ta không còn nhà ngươi</item>
+        <item>Suỵt!!!!</item>
+        <item>Ngày đêm ta bên nhau, những đêm ngày chiến đấu....</item>
+        <item>Ban công</item>
+        <item>Mát thật</item>
+        <item>Ung thư</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Lẽ đương nhiên</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Mắt xích đầu tiên</item>
+        <item>Newton</item>
+        <item>Phật</item>
+        <item>Dám nghĩ dám làm</item>
+        <item>$$</item>
+        <item>Thomas Muller</item>
+        <item>Không được kể chuyện này với ai</item>
+        <item>Một từ ghép</item>
+        <item>Ngồi nhiều nè!</item>
+        <item>Một đồ vật</item>
+        <item>Một từ ghép </item>
+        <item>Dân chúng</item>
+        <item>Đông - Tây - Nam - Bắc</item>
+        <item>Một từ ghép </item>
+        <item>Deadline</item>
+        <item>Một từ ghép </item>
+        <item>Em chỉ học toán lý hóa</item>
+        <item>Phương tiện đi lại</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Hết giờ học mà chưa về</item>
+        <item>200% thuế</item>
+        <item>Không biết cái gì đang diễn ra nữa</item>
+        <item>Một loại bệnh</item>
+        <item>Năm nào cháu cũng xếp thứ nhất từ dưới lên</item>
+        <item>Một loại bệnh</item>
+        <item>Một từ ghép</item>
+        <item>Một loại chim</item>
+        <item>Một câu tục ngữ</item>
+        <item>Nay chú trông ngon đấy</item>
+        <item>Cấp 3 -> Đại học -> ...</item>
+        <item>Rải rác, một lúc</item>
+        <item>Một từ ghép</item>
+        <item>Di sản văn hóa giao thông trên đường Việt Nam</item>
+        <item>Một từ ghép</item>
+        <item>Xây nhà</item>
+        <item>Một từ ghép </item>
+        <item>Một từ ghép </item>
+        <item>Làm bài thi phải cẩn thận</item>
+        <item>Một từ ghép</item>
+        <item>Người đóng góp cho công chúng</item>
+        <item>Cò bay</item>
+        <item>Một từ ghép </item>
+        <item>Chạy đi, tôi sẽ ở lại</item>
+        <item>Tổng kết cuối năm</item>
+        <item>Triều Tiên</item>
+        <item>Làm nhiều việc xấu</item>
+        <item>Ung thư</item>
+        <item>Một từ ghép </item>
+        <item>Đừng nhúng tay vào vụ này</item>
+        <item>Nhiều đỉnh</item>
+        <item>Keang Nam</item>
+        <item>Một loại bệnh</item>
+        <item>Nốt chén này thôi nha</item>
+        <item>Một từ ghép </item>
+        <item>Làng nghề gia truyền</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Quốc lộ 1A</item>
+        <item>Một từ ghép </item>
+        <item>Một từ ghép </item>
+        <item>Một từ ghép </item>
+        <item>Một từ ghép </item>
+        <item>Một từ ghép </item>
+        <item>Một từ ghép</item>
+        <item>Cẩn thận kẻo đứt tay</item>
+        <item>Cành ngọc lá vàng</item>
+        <item>Một câu tục ngữ</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép </item>
+        <item>Gia Cát Dự</item>
+        <item>Xinh đẹp, đằm thắm</item>
+        <item>Một từ ghép </item>
+        <item>Cạo râu </item>
+        <item>Online đi</item>
+        <item>Một từ ghép</item>
+        <item>Làm gì cũng cần phải có</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép </item>
+        <item>Ra đây e nói nhỏ chút</item>
+        <item>Vắng vẻ</item>
+        <item> Chủ ngữ + Vị ngữ</item>
+        <item>Angel</item>
+        <item>HCl</item>
+        <item>Dọc miền đất nước</item>
+        <item>Hứa</item>
+        <item>Hehe trông đẹp giai thế mà gay lọ</item>
+        <item>Tắm rửa</item>
+        <item>Giá rau củ đợt này đắt quá</item>
+        <item>Một từ ghép</item>
+        <item>Buồn bã</item>
+        <item>Một từ ghép</item>
+        <item>10/10</item>
+        <item>Nhìn 1 ra 2</item>
+        <item>Ai cũng phải lo</item>
+        <item>2 sao</item>
+        <item>Thời trang thu đông</item>
+        <item>Một từ ghép</item>
+        <item>Bí mật thui</item>
+        <item>Nhìn e kia kìa</item>
+        <item>Phần mềm này chỉ chạy được trên android</item>
+        <item>Tự cung</item>
+        <item>Một từ ghép</item>
+        <item>Tắm</item>
+        <item>Anh ấy ít nói chuyện với em lắm</item>
+        <item>Tối quá, chả có cách nào cả</item>
+        <item>HD981</item>
+        <item>Rủ nhau phạm tội</item>
+        <item>Nguy hiểm</item>
+        <item>Một loại đồ vật</item>
+        <item>Không bình tĩnh</item>
+        <item>Nhìn gì mà nhìn</item>
+        <item>Một từ ghép</item>
+        <item>MH17</item>
+        <item>Điểm nhấn</item>
+        <item>Chính phủ</item>
+        <item>Có phố Kỳ Lừa, có nàng Tô Thị...</item>
+        <item>Có mặt trước 9h</item>
+        <item>Ôi sao nay anh lại tặng hoa cho em</item>
+        <item>Làm cẩn thận, thiếu 1 2 thùng là chết đấy</item>
+        <item>Nguyễn Ngọc Trường Sơn</item>
+        <item>Mưa rơi</item>
+        <item>Mỗi người một nơi</item>
+        <item>Có thằng tội phạm trốn ở kia</item>
+        <item>Tội phạm</item>
+        <item>Ừ cứ tự nhiên</item>
+        <item>Bán tôi cái này 500k nhé, 700 đắt quá</item>
+        <item>Một từ ghép</item>
+        <item>Coi cái mặt kìa</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>S9</item>
+        <item>Tệ nạn học đường</item>
+        <item>Tiếng kêu lánh lót</item>
+        <item>Tàu</item>
+        <item>Quan tâm, lo lắng, giúp đỡ</item>
+        <item>Tòa án, luật sư</item>
+        <item>Một kiểu sỹ</item>
+        <item>Một loại máy móc</item>
+        <item>Cấp trên</item>
+        <item>Em không ăn đâu</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Một câu tục ngữ</item>
+        <item>Nguyễn Đức Kiên</item>
+        <item>Hay</item>
+        <item>Ôi mệt quá đi</item>
+        <item>Một từ ghép</item>
+        <item>Hà Nội</item>
+        <item>Một câu tục ngữ</item>
+        <item>Khó vãi...</item>
+        <item>Đốt mã</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Luồn lách, bỉ ổi</item>
+        <item>Thế hệ</item>
+        <item>Bệnh viện</item>
+        <item>17h </item>
+        <item>Không chắc chắn</item>
+        <item>Vỗ tay</item>
+        <item>Lý Thái Tổ</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Trẻ trung, năng động</item>
+        <item>Không dứt khoát</item>
+        <item>Thị xã - .... - Tỉnh </item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Thẹn thùng</item>
+        <item>Nhớ mong</item>
+        <item>Một từ ghép</item>
+        <item>Một loại báo</item>
+        <item>Tivi</item>
+        <item>Gia đình</item>
+        <item>Lần gặp đầu tiên</item>
+        <item>Một từ ghép</item>
+        <item>Nhà có nhiều cửa sổ</item>
+        <item>Một từ ghép</item>
+        <item>Người mẫu</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Trẻ em</item>
+        <item>Một từ ghép</item>
+        <item>Một câu tục ngữ</item>
+        <item>Cứ làm đi đã, tính sau</item>
+        <item>Sao Mộc</item>
+        <item>Mộ từ ghép</item>
+        <item>Ngày 6 tháng 9 năm 1969...</item>
+        <item>Giá trị đạo đức</item>
+        <item>Một từ ghép</item>
+        <item>Nếu làm hộ anh cái này, chú sẽ có rất nhiều tiền</item>
+        <item>33 đốt</item>
+        <item>Tốt nước sơn</item>
+        <item>Lo lắng</item>
+        <item>Không nhớ để ở đâu nữa</item>
+        <item>Thanh niên thời nay</item>
+        <item>Một từ ghép</item>
+        <item>Không như tưởng tượng</item>
+        <item>Không có số</item>
+        <item>2 bên đều là đường đi lại</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Suarez world cup 2014</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>2-1</item>
+        <item>Bóng đá</item>
+        <item>Một từ ghép</item>
+        <item>Newton</item>
+        <item>Khu vệ sinh</item>
+        <item>HD981</item>
+        <item>Một từ ghép</item>
+        <item>Một câu tục ngữ</item>
+        <item>Một câu tục ngữ</item>
+        <item>Một từ ghép</item>
+        <item>Samsung</item>
+        <item>Tối đa 4 người</item>
+        <item>Con gái</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Đàn gà con</item>
+        <item>Chiến tranh</item>
+        <item>Nắng to</item>
+        <item>Một từ ghép</item>
+        <item>Vina</item>
+        <item>Một câu tục ngữ</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Đi nước ngoài</item>
+        <item>18+</item>
+        <item>Một hành động</item>
+        <item>Một từ ghép</item>
+        <item>Không dối trá</item>
+        <item>Rẻ</item>
+        <item>Một loài vật</item>
+        <item>Gặp gỡ</item>
+        <item>Vội vã</item>
+        <item>Một từ ghép</item>
+        <item>Sửa chữa xe máy</item>
+        <item>Ai cũng yêu</item>
+        <item>Gánh vác bớt</item>
+        <item>Một từ ghép</item>
+        <item>Phương châm, triết lý hành động</item>
+        <item>Mộ từ ghép</item>
+        <item>Hàng hóa khan hiếm</item>
+        <item>Một từ ghép</item>
+        <item>Nguyễn Đức Nam</item>
+        <item>Một lại đá</item>
+        <item>Khi vui mừng</item>
+        <item>Một từ ghép</item>
+        <item>Quẹt thẻ</item>
+        <item>Bụp!</item>
+        <item>Một từ ghép</item>
+        <item>Một câu tục ngữ</item>
+        <item>Đức việt</item>
+        <item>"Đàn lợn"</item>
+        <item>Biore</item>
+        <item>Một từ ghép</item>
+        <item>Gia đình</item>
+        <item>Một từ ghép</item>
+        <item>HD981</item>
+        <item>Sau mỗi lần vấp ngã</item>
+        <item>Mát quá</item>
+        <item>Xương rồng</item>
+        <item>Một câu tục ngữ</item>
+        <item>Một câu tục ngữ</item>
+        <item>Một từ ghép</item>
+        <item>Coca, fanta</item>
+        <item>Vô hạn, mênh mông</item>
+        <item>Buôn lậu</item>
+        <item>Một từ ghép</item>
+        <item>Danh mục sản phẩm</item>
+        <item>Ăn to nói lớn</item>
+        <item>Một câu tục ngữ</item>
+        <item>Việt Nam hình chữ S</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Đi mã mà không đến</item>
+        <item>Ma mới</item>
+        <item>Từ bé</item>
+        <item>Nhìn đâu cũng thấy đen trắng</item>
+        <item>Cát Tường</item>
+        <item>Một câu tục ngữ</item>
+        <item>Một từ ghép</item>
+        <item>Luyện công</item>
+        <item>Một câu tục ngữ</item>
+        <item>Tết trung thu</item>
+        <item>Đan Trường</item>
+        <item>Trông ngon đấy</item>
+        <item>Học giỏi</item>
+        <item>Transfomer 4</item>
+        <item>Một câu tục ngữ</item>
+        <item>Khó dứt</item>
+        <item>Một câu tục ngữ</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Vật lý</item>
+        <item>Một ngày lễ</item>
+        <item>Điều khoản, hợp đồng</item>
+        <item>Khủng long</item>
+        <item>Một từ ghép</item>
+        <item>Động cái là khóc</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Sang trọng, lộng lẫy</item>
+        <item>SPF, PA++</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Rõ ràng là tôi đúng</item>
+        <item>Một câu tục ngữ</item>
+        <item>Làng quê</item>
+        <item>Một câu tục ngữ</item>
+        <item>Chim sẻ đi nắng</item>
+        <item>Ác ôn</item>
+        <item>Quân giặc</item>
+        <item>Một từ ghép</item>
+        <item>Một câu tục ngữ</item>
+        <item>Một từ ghép</item>
+        <item>No connection</item>
+        <item>Bé, gầy</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Baby</item>
+        <item>Cuối năm tâu được cái xe</item>
+        <item>Ngâm rượu thuốc</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Giữ sách</item>
+        <item>Ghê quá</item>
+        <item>VTV</item>
+        <item>300 người bị thương</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Thốn</item>
+        <item>Nghiên cứu</item>
+        <item>Có tuổi</item>
+        <item>Một loài bọ</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Không ồn ào</item>
+        <item>Một câu tục ngữ</item>
+        <item>Miền Trung</item>
+        <item>Một câu tục ngữ</item>
+        <item>Một từ ghép</item>
+        <item>Một câu tục ngữ</item>
+        <item>Dữ dằn</item>
+        <item>Một từ ghép</item>
+        <item>Sai</item>
+        <item>Một từ ghép</item>
+        <item>Giáo dục</item>
+        <item>Đang tập trung</item>
+        <item>Truyền thông</item>
+        <item>Một kiểu học sinh</item>
+        <item>Cách tốt nhất</item>
+        <item>Một từ ghép</item>
+        <item>Xung quanh nhà</item>
+        <item>Như không có gì xay ra</item>
+        <item>Một câu tục ngữ</item>
+        <item>Một từ ghép</item>
+        <item>Dưới biển số</item>
+        <item>Một từ ghép</item>
+        <item>Đắng lòng</item>
+        <item>Mùi rất nồng</item>
+        <item>Một từ ghép</item>
+        <item>1 hoạt động dịp 20-11 ở cấp 3</item>
+        <item>Bị thương</item>
+        <item>Một loài chim</item>
+        <item>Một câu tục ngữ</item>
+        <item>Ranh mãnh, khôn ngoan</item>
+        <item>Một câu tục ngữ</item>
+        <item>Một câu tục ngữ</item>
+        <item>Mát ruột, bổ gan</item>
+        <item>Ông táo</item>
+        <item>Ít tuổi</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Kỳ lạ, khác thường</item>
+        <item>Một từ ghép</item>
+        <item>Bản nhạc</item>
+        <item>Tiền sử</item>
+        <item>Một từ ghép</item>
+        <item>Viettel 191</item>
+        <item>Đang nắng thì mưa</item>
+        <item>Một câu tục ngữ</item>
+        <item>DJ</item>
+        <item>Có gì lạ</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Tổ chức</item>
+        <item>Một câu tục ngữ</item>
+        <item>Một từ ghép</item>
+        <item>Không rõ ràng</item>
+        <item>Một từ ghép</item>
+        <item>Thăng tiến</item>
+        <item>Hoa hậu</item>
+        <item>Hình tròn</item>
+        <item>Cho qua</item>
+        <item>Một món ăn</item>
+        <item>3 con sói</item>
+        <item>Đi du lịch</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Buồn</item>
+        <item>18-25</item>
+        <item>Vinashin</item>
+        <item>Thương thuyết</item>
+        <item>Bên dưới</item>
+        <item>Tốt cho da mặt</item>
+        <item>100% nguyên chất </item>
+        <item>Một từ ghép</item>
+        <item>Dễ vỡ</item>
+        <item>Một từ ghép</item>
+        <item>Hiện tượng</item>
+        <item>Nguye hiểm</item>
+        <item>Một câu tục ngữ</item>
+        <item>Kim Mộc Thủy....</item>
+        <item>Một trò chơi</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Một câu tục ngữ</item>
+        <item>Ăn được</item>
+        <item>Khác với tính toán</item>
+        <item>15-8</item>
+        <item>Một từ ghép</item>
+        <item>Một loại nhạc</item>
+        <item>Đồ vật</item>
+        <item>Một từ ghép</item>
+        <item>Một điệu hát</item>
+        <item>Một câu tục ngữ</item>
+        <item>Cẩm nhận</item>
+        <item>Thấm đòn</item>
+        <item>Một từ ghép</item>
+        <item>Một câu tục ngữ</item>
+        <item>Một từ ghép</item>
+        <item>Một loại nhạc cụ</item>
+        <item>Một câu tục ngữ</item>
+        <item>Bạn đang nhìn vào...</item>
+        <item>Quân đội</item>
+        <item>Sau 1 trận rượu bia</item>
+        <item>Đi chùa</item>
+        <item>Một từ ghép</item>
+        <item>Lộng lẫy</item>
+        <item>VOV giao thông</item>
+        <item>Một câu tục ngữ</item>
+        <item>Gấu bắc cực</item>
+        <item>Trường học</item>
+        <item>Tiến sỹ</item>
+        <item>Chién tranh</item>
+        <item>Buôn bán</item>
+        <item>Một từ ghép</item>
+        <item>Một từ ghép</item>
+        <item>Khó phai</item>
+        <item>FA là vì không</item>
+        <item>190 km/h</item>
+        <item>Vui vẻ</item>
+        <item>Ipod</item>
+        <item>Con chào chú</item>
+
+        <!-- Adding new data hint - batchu_troll 186 -->
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+        <!-- 186, adding 2 items  -->
+        <item>...</item>
+        <item>...</item>
+    </string-array>
+
+</resources>

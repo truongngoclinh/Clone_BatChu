@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="NoTitleBarTheme" parent="@android:style/Theme.Light.NoTitleBar"></style>
+
+    <style name="CustomTransparentTheme" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+</resources>
