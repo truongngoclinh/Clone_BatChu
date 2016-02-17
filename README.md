@@ -11,7 +11,9 @@ This game has new playing rule:
  - hint 
 
 New playing rule:
+
 https://cloud.githubusercontent.com/assets/13033746/13116933/76e42f9c-d5d0-11e5-8d42-0a1564e64ff0.png
 
 Congrat dialog:
+
 https://cloud.githubusercontent.com/assets/13033746/13116972/a40849e0-d5d0-11e5-8ac1-809fe6f084e8.png
