@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bg_main_screen"
-    tools:context="com.smtech.batchu.LevelListActivity" >
+    tools:context="com.smtech.batchu.control.LevelListActivity" >
 
     <Button
         android:id="@+id/btnGo"

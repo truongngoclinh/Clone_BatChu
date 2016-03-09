@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.smtech.batchu;
+package com.smtech.batchu.anim;
 
 import android.view.animation.Animation;
 import android.view.animation.Transformation;

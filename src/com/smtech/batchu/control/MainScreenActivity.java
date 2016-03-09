@@ -1,22 +1,12 @@
-package com.smtech.batchu;
+package com.smtech.batchu.control;
 
 import java.io.ByteArrayOutputStream;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Random;
 
+import com.smtech.batchu.anim.Rotate3dAnimation;
 import com.sutech.batchu.R;
-import com.startapp.android.publish.Ad;
-import com.startapp.android.publish.AdEventListener;
-import com.startapp.android.publish.StartAppAd;
-import com.startapp.android.publish.StartAppAd.AdMode;
-import com.startapp.android.publish.StartAppSDK;
-import com.startapp.android.publish.nativead.NativeAdDetails;
-import com.startapp.android.publish.nativead.NativeAdPreferences;
-import com.startapp.android.publish.nativead.StartAppNativeAd;
-import com.startapp.android.publish.nativead.NativeAdPreferences.NativeAdBitmapSize;
-import com.startapp.android.publish.splash.SplashConfig;
-import com.startapp.android.publish.splash.SplashConfig.Theme;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -41,10 +31,8 @@ import android.net.NetworkInfo;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.CountDownTimer;
-import android.os.Handler;
 import android.provider.MediaStore.Images;
 import android.util.DisplayMetrics;
-import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.Window;
@@ -57,17 +45,6 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
-//import com.facebook.android.AsyncFacebookRunner;
-//import com.facebook.android.DialogError;
-//import com.facebook.android.Facebook;
-//import com.facebook.android.AsyncFacebookRunner.RequestListener;
-//import com.facebook.android.Facebook.DialogListener;
-//import com.facebook.android.FacebookError;
-//import com.facebook.android.Util;
-//import com.google.android.gms.ads.AdRequest;
-//import com.google.android.gms.ads.AdSize;
-//import com.google.android.gms.ads.AdView;
-//import com.google.android.gms.ads.InterstitialAd;
 
 public class MainScreenActivity extends Activity {
 
@@ -148,21 +125,14 @@ public class MainScreenActivity extends Activity {
 
 	private ImageView mFacebookBtn;
 
-	// for ad
-	// private AdView adView;
 	private LinearLayout layout;
-	// private InterstitialAd interstitial;
 	private int count = -1;
-	/** StartAppAd object declaration */
-	private StartAppAd startAppAd = new StartAppAd(this);
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
-		Log.d("LINH", "onCreate()");
 		setContentView(R.layout.activity_main_screen);
-		StartAppSDK.init(this, "109866585", "209031052", true);
 		this.registerReceiver(this.mConnReceiver, new IntentFilter(
 				ConnectivityManager.CONNECTIVITY_ACTION));
 
@@ -176,46 +146,9 @@ public class MainScreenActivity extends Activity {
 		initTimer(false);
 		initHintButton();
 		initFbShareButton();
-		// initAdView();
-		// initAmobiView();
-
-		
-		// StartAppAd.showSlider(this);
-		// startAppAd.loadAd(AdMode.AUTOMATIC);
-		// StartAppAd.showSplash(this, savedInstanceState);
-
-		// if (checkInternetConnection()) {
-		// Log.d("LINH", "loadAd");
-		// startAppAd.showAd();
-		// startAppAd.loadAd();
-		// } else {
-		// }
 		
 	}
 
-	//
-	// private void initAmobiView() {
-	// if (checkInternetConnection()) {
-	// startAppAd.showAd();
-	// startAppAd.loadAd();
-	// }
-	// // adView = (AmobiAdView) findViewById(R.id.main_menu_adView);
-	// this.registerReceiver(this.mConnReceiver, new IntentFilter(
-	// ConnectivityManager.CONNECTIVITY_ACTION));
-	// }
-
-	// private void initAdView() {
-	// // /* Adview */
-	// adView = new AdView(context);
-	// adView.setAdSize(AdSize.BANNER);
-	// adView.setAdUnitId("ca-app-pub-1819876831517948/5111540712");
-	//
-	// interstitial = new InterstitialAd(context);
-	// interstitial.setAdUnitId("ca-app-pub-1819876831517948/3914009118");
-	//
-	// this.registerReceiver(this.mConnReceiver, new IntentFilter(
-	// ConnectivityManager.CONNECTIVITY_ACTION));
-	// }
 
 	private void initActivityBackground() {
 		root = (RelativeLayout) findViewById(R.id.root);
@@ -253,15 +186,6 @@ public class MainScreenActivity extends Activity {
 			public void onClick(View v) {
 				playButtonSoundOnClick(TYPE_CLICK_SOUND);
 				if (isNetworkAvailable(context)) {
-					// Intent i = new Intent(getApplicationContext(),
-					// FacebookUploadActivity.class);
-					// Bitmap bmp = screenShot(root);
-					// ByteArrayOutputStream stream = new
-					// ByteArrayOutputStream();
-					// bmp.compress(Bitmap.CompressFormat.PNG, 100, stream);
-					// byte[] byteArray = stream.toByteArray();
-					// i.putExtra("image", byteArray);
-					// startActivity(i);
 					Intent shareCaptionIntent = new Intent(Intent.ACTION_SEND);
 					shareCaptionIntent.setType("image/*");
 
@@ -315,7 +239,6 @@ public class MainScreenActivity extends Activity {
 		}
 		String tmpAllQuestion[] = allQuestion.split(",");
 		currentQuestionIdx = Integer.parseInt(tmpAllQuestion[0]);
-		Log.d("LINH", "Loading.. \n strQuestion = " + currentQuestionIdx);
 		txtHint.setText(keyHints[currentQuestionIdx]);
 	}
 
@@ -374,7 +297,6 @@ public class MainScreenActivity extends Activity {
 	private void handleHintText() {
 		CURRENT_CONTROL_ANSWER = 1;
 		hintIdx++;
-		// Log.d("LINH", "hintIdx = " + hintIdx);
 		for (int i = 0; i < 8; i++) {
 			if (hintIdx < 8) {
 				if (i <= hintIdx) {
@@ -455,7 +377,6 @@ public class MainScreenActivity extends Activity {
 
 	@SuppressLint("NewApi")
 	private Rotate3dAnimation initAnimation(float x, float y, int numbers) {
-		// Log.d("LINH", "x = " + x + " & y = " + y);
 		final int n = numbers;
 		Rotate3dAnimation rt = new Rotate3dAnimation(-90, 0, x, y, 310.0f,
 				false);
@@ -1318,7 +1239,6 @@ public class MainScreenActivity extends Activity {
 
 	@Override
 	public void onBackPressed() {
-		Log.d("LINH", "onBackPressed!");
 		final AlertDialog.Builder builder = new AlertDialog.Builder(this);
 		builder.setMessage("Bạn có muốn thoát ứng dụng?")
 				.setCancelable(false)
@@ -1345,9 +1265,7 @@ public class MainScreenActivity extends Activity {
 	@Override
 	protected void onResume() {
 		super.onResume();
-		Log.d("LINH", "onResume()");
 		timer.start();
-		startAppAd.onResume();
 	}
 
 	private void resetData() {
@@ -1368,9 +1286,7 @@ public class MainScreenActivity extends Activity {
 	@Override
 	protected void onPause() {
 		timer.cancel();
-		Log.d("LINH", "onPause()");
 		super.onPause();
-		startAppAd.onPause();
 	}
 
 	@Override
@@ -1422,22 +1338,7 @@ public class MainScreenActivity extends Activity {
 					.getParcelableExtra(ConnectivityManager.EXTRA_OTHER_NETWORK_INFO);
 
 			if (currentNetworkInfo.isConnected()) {
-				if (count == 0 && (count % 3) == 0) {
-					startAppAd.loadAd(new AdEventListener() {
-
-						@Override
-						public void onReceiveAd(Ad ad) {
-							Log.d("LINH", "Ad received!");
-							startAppAd.showAd();
-						}
-
-						@Override
-						public void onFailedToReceiveAd(Ad ad) {
-							Log.d("LINH", "Ad failed");
-
-						}
-					});
-				}
+			  // do 
 
 			} else {
 				Toast.makeText(context,
